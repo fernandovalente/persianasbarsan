@@ -739,3 +739,14 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+.services-content {
+  margin-bottom: 60px;
+}
+.icons-services-content {
+ margin-bottom: 80px; 
+}
+.about-content {
+  margin: 60px 0 200px 0;
+  font-size: 20px;
+}
